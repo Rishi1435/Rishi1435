@@ -6,7 +6,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Rishi+%F0%9F%91%8B;Full+Stack+Developer+%7C+CS+Student;Flutter+%2B+AWS+Serverless+Builder;AI%2FML+Integration+Enthusiast;Building+QLUE+%F0%9F%8E%99%EF%B8%8F+%E2%80%94+AI+Voice+Interviews)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+### ⚡ Hey there! I'm Rishi — Full Stack Developer & CS Student
+
+**`Flutter / Dart · AWS Serverless · AI/ML Integration · Building QLUE 🎙️`**
 
 </div>
 
@@ -22,7 +26,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## 🧑‍💻 About Me
 
 ```yaml
 Name     : P Vishnu Venkata Rishi
@@ -39,11 +43,11 @@ Email    : 23mh1a05o1@acoe.edu.in
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**💬 Languages**
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,12 +55,12 @@ Email    : 23mh1a05o1@acoe.edu.in
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Mobile & Frontend**
+**📱 Mobile & Frontend**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 
-**Cloud & Backend**
+**☁️ Cloud & Backend**
 
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
@@ -67,13 +71,13 @@ Email    : 23mh1a05o1@acoe.edu.in
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Databases**
+**🗄️ Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-**Tools & DevOps**
+**🔧 Tools & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,13 +95,7 @@ Email    : 23mh1a05o1@acoe.edu.in
 
 <div align="center">
 
-<a href="https://github.com/Rishi1435">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi1435&repo=qlue&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7" />
-</a>
-
-</div>
-
-<div align="center">
+![QLUE Banner](https://img.shields.io/badge/🎙️_QLUE-AI_Voice_Mock_Interview_Platform-a855f7?style=for-the-badge)
 
 | 🎙️ Feature | 🛠️ Stack | ⚡ Highlight |
 |---|---|---|
@@ -121,9 +119,11 @@ Email    : 23mh1a05o1@acoe.edu.in
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rishi1435&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff9900&currStreakLabel=a855f7)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rishi1435&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff9900&currStreakLabel=a855f7" />
 
 </div>
 
