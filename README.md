@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
-
 ### ⚡ Hey there! I'm Rishi — Full Stack Developer & CS Student
 
 **`Flutter / Dart · AWS Serverless · AI/ML Integration · Building QLUE 🎙️`**
@@ -95,8 +93,6 @@ Email    : 23mh1a05o1@acoe.edu.in
 
 <div align="center">
 
-![QLUE Banner](https://img.shields.io/badge/🎙️_QLUE-AI_Voice_Mock_Interview_Platform-a855f7?style=for-the-badge)
-
 | 🎙️ Feature | 🛠️ Stack | ⚡ Highlight |
 |---|---|---|
 | Voice-based AI Interviews | Flutter + AWS Lambda | Real-time Q&A |
@@ -114,8 +110,10 @@ Email    : 23mh1a05o1@acoe.edu.in
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishi1435&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi1435&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
+<a href="https://github.com/Rishi1435">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishi1435&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&cache_seconds=3600" alt="Rishi's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi1435&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&cache_seconds=3600" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -123,7 +121,7 @@ Email    : 23mh1a05o1@acoe.edu.in
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rishi1435&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff9900&currStreakLabel=a855f7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi1435&theme=tokyonight&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=FF9900&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
 
 </div>
 
@@ -131,7 +129,7 @@ Email    : 23mh1a05o1@acoe.edu.in
 
 <div align="center">
 
-[![Rishi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi1435&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi1435&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -143,7 +141,7 @@ Email    : 23mh1a05o1@acoe.edu.in
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rishi1435&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rishi1435&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
