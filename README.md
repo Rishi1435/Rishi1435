@@ -142,8 +142,8 @@ const rishi = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishi1435&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi1435&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://readme-stats-fast.vercel.app/api?username=Rishi1435&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Rishi1435&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
@@ -172,7 +172,11 @@ const rishi = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rishi1435/Rishi1435/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi1435/Rishi1435/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi1435/Rishi1435/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rishi1435/Rishi1435/output/github-snake.svg" alt="Snake animation" />
+</picture>
 
 <br/>
 
