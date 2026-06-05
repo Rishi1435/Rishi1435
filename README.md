@@ -3,8 +3,8 @@
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:a78bfa&height=220&section=header&text=P%20Vishnu%20Venkata%20Rishi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20AWS%20%E2%80%A2%20AI%2FML&descSize=16&descAlignY=58&descColor=e9d5ff" />
 
-<!-- TYPING SVG - using img tag for reliable rendering -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Building+AI-Powered+Apps+with+Flutter+%2B+AWS%3B%E2%98%81%EF%B8%8F+Cloud-Native+%7C+Serverless+%7C+Bedrock+%7C+Lambda%3B%F0%9F%A4%96+LLM+Integration+%7C+Voice+AI+%7C+Real-Time+Systems%3B%F0%9F%8F%86+Top+5+%40+Project+Space+%7C+1st+Prize+CampusConnect%3B%F0%9F%8C%B1+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+<!-- TYPING SVG -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Building+AI-Powered+Apps+with+Flutter+%2B+AWS;Cloud-Native+%7C+Serverless+%7C+Bedrock+%7C+Lambda;LLM+Integration+%7C+Voice+AI+%7C+Real-Time+Systems;Top+5+%40+Project+Space+%7C+1st+Prize+CampusConnect;Always+Learning+%7C+Always+Building)
 
 <br/>
 
@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- SOCIAL LINKS -->
-<a href="https://rishipediredla.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-rishipediredla.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://rishipediredla.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rishipediredla.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/rishi-pediredla-2305nov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:pediredlarishi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
@@ -26,27 +26,28 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```typescript
 const rishi = {
   name      : "P Vishnu Venkata Rishi",
-  location  : "Visakhapatnam, Andhra Pradesh 🇮🇳",
+  location  : "Visakhapatnam, Andhra Pradesh",
   education : "B.Tech CSE @ Aditya College of Engineering & Technology",
   roles     : ["Full Stack Developer", "Flutter Engineer", "AWS Builder"],
   passion   : ["AI/LLM Integration", "Cloud-Native Systems", "Mobile Apps"],
   openFor   : ["Internships", "Freelance", "Open Source", "Collaborations"],
-  superpower: "Turning coffee ☕ into production-grade cloud apps 🚀",
+  superpower: "Turning coffee into production-grade cloud apps",
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -55,21 +56,24 @@ const rishi = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📱 Frameworks & Mobile
+**Frameworks & Mobile**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### ☁️ Cloud & DevOps
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Bedrock-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🗄️ Databases
+**Databases**
+
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,19 +82,19 @@ const rishi = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Qlue — AI Voice Interview Coach
+### Qlue - AI Voice Interview Coach
 
-> 🏆 **Top 5** at Project Space (160+ projects)
+> **Top 5** at Project Space (160+ projects)
 
-- 🎙️ Voice-based AI mock interviewer — reads your resume & asks personalized questions
-- 📊 Real-time scoring: Relevance · Clarity · Depth · Confidence · Structure
-- ⚡ <2s AI response · 5 Polly voices · Resume/HR/Self-intro/URL modes
+- Voice-based AI mock interviewer - reads your resume & asks personalized questions
+- Real-time scoring: Relevance, Clarity, Depth, Confidence, Structure
+- Under 2s AI response - 5 Polly voices - Resume/HR/Self-intro/URL modes
 
 **Stack:**
 `Flutter` `Node.js` `AWS Lambda` `Amazon Bedrock` `Polly` `Textract` `DynamoDB` `S3` `Firebase` `WebSocket`
@@ -100,13 +104,13 @@ const rishi = {
 </td>
 <td width="50%" valign="top">
 
-### 💰 Xpensia — Smart Expense Tracker
+### Xpensia - Smart Expense Tracker
 
-> 📈 **15% engagement boost** via automated SMS parsing
+> **15% engagement boost** via automated SMS parsing
 
-- 📲 SMS auto-import of bank transactions
-- 🔐 Biometric lock · 📁 CSV & PDF export
-- 🎨 Glassmorphism UI with fl_chart visualizations
+- SMS auto-import of bank transactions
+- Biometric lock - CSV & PDF export
+- Glassmorphism UI with fl_chart visualizations
 
 **Stack:**
 `Flutter` `Firebase` `Node.js` `Express` `MongoDB Atlas`
@@ -119,22 +123,22 @@ const rishi = {
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Medal | Achievement | Details |
 |:-----:|:-----------|:--------|
-| 🥇 | **1st Prize — CampusConnect** | Led 5-person team, beat 14 universities |
-| 🎯 | **Top 5 — Project Space** | Qlue v2 among 160+ projects |
-| ⚡ | **15% Engagement Boost** | Xpensia SMS parser optimization |
-| 🎤 | **Event Coordinator** | Tech Fest coding contest — 200+ participants |
+| Gold | **1st Prize - CampusConnect** | Led 5-person team, beat 14 universities |
+| Target | **Top 5 - Project Space** | Qlue v2 among 160+ projects |
+| Lightning | **15% Engagement Boost** | Xpensia SMS parser optimization |
+| Mic | **Event Coordinator** | Tech Fest coding contest - 200+ participants |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -149,18 +153,18 @@ const rishi = {
 
 ---
 
-## 🤝 Let's Connect
+## Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rishi-pediredla-2305nov/"><img src="https://img.shields.io/badge/LinkedIn-rishi--pediredla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:pediredlarishi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-pediredlarishi2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:pediredlarishi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-pediredlarishi2005-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://rishipediredla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-rishipediredla.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/Rishi1435"><img src="https://img.shields.io/badge/GitHub-Rishi1435-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-**Open For:** ✅ Freelance &nbsp;·&nbsp; ✅ Open Source &nbsp;·&nbsp; ✅ Technical Discussions &nbsp;·&nbsp; ✅ Internships
+**Open For:** Freelance &nbsp;|&nbsp; Open Source &nbsp;|&nbsp; Technical Discussions &nbsp;|&nbsp; Internships
 
 </div>
 
@@ -168,7 +172,7 @@ const rishi = {
 
 <div align="center">
 
-<img src="https://github.com/Rishi1435/Rishi1435/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Rishi1435/Rishi1435/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <br/>
 
