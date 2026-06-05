@@ -256,7 +256,15 @@ Working on:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rishi1435&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+![Commits](https://img.shields.io/badge/Total%20Commits-734-a855f7?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-42-0175C2?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars%20Earned-2-f59e0b?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Longest%20Streak-20%20days-FF6B6B?style=for-the-badge&logo=fire&logoColor=white)
+
+![MultiLang](https://img.shields.io/badge/Languages%20Used-5+-6DB33F?style=for-the-badge&logo=codefactor&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20Platforms-AWS%20%7C%20GCP-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Since](https://img.shields.io/badge/Coding%20Since-Oct%202023-blueviolet?style=for-the-badge&logo=github&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-Participated-red?style=for-the-badge&logo=devpost&logoColor=white)
 
 </div>
 
