@@ -306,39 +306,40 @@ Other            15 mins         ░░░░░░░░░░░░░░░�
 <br/>
 
 ---
+<div align="center">
+
+<!--END_SECTION:waka-->
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Rishi1435"><img src="https://img.shields.io/badge/GitHub-%40Rishi1435-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:23mh1a05o1@acoe.edu.in"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:pediredlarishi2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rishi-pediredla-2305nov/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://rishipediredla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
-
-<br/>
 
 <div align="center">
 
 ### 💬 Open for:
 
-✅ **Freelance Projects** · ✅ **Open Source Collaboration** · ✅ **Technical Discussions** · ✅ **Mentorship**
+✅ **Freelance Projects** · ✅ **Open Source Collaboration** · ✅ **Technical Discussions** · ✅ **Internship Opportunities**
 
-**📧 Best way to reach me:** [23mh1a05o1@acoe.edu.in](mailto:23mh1a05o1@acoe.edu.in)
+**📧 Best way to reach me:** [pediredlarishi2005@gmail.com](mailto:pediredlarishi2005@gmail.com)
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
-<br/>
 
 **⭐ If you find my work interesting, consider starring my repos!**
 
