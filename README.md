@@ -3,22 +3,22 @@
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:a78bfa&height=220&section=header&text=P%20Vishnu%20Venkata%20Rishi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20AWS%20%E2%80%A2%20AI%2FML&descSize=16&descAlignY=58&descColor=e9d5ff" />
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=🚀+Building+AI-Powered+Apps+with+Flutter+%2B+AWS;☁️+Cloud-Native+%7C+Serverless+%7C+Bedrock+%7C+Lambda;🤖+LLM+Integration+%7C+Voice+AI+%7C+Real-Time+Systems;🏆+Top+5+%40+Project+Space+%7C+1st+Prize+CampusConnect;🌱+Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+<!-- TYPING SVG - using img tag for reliable rendering -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Building+AI-Powered+Apps+with+Flutter+%2B+AWS%3B%E2%98%81%EF%B8%8F+Cloud-Native+%7C+Serverless+%7C+Bedrock+%7C+Lambda%3B%F0%9F%A4%96+LLM+Integration+%7C+Voice+AI+%7C+Real-Time+Systems%3B%F0%9F%8F%86+Top+5+%40+Project+Space+%7C+1st+Prize+CampusConnect%3B%F0%9F%8C%B1+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
 <!-- BADGES ROW -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Rishi1435&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/Rishi1435)
-[![GitHub Followers](https://img.shields.io/github/followers/Rishi1435?label=Followers&style=flat-square&color=6d28d9&logo=github&logoColor=white)](https://github.com/Rishi1435?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Rishi1435?label=Stars&style=flat-square&color=f59e0b&logo=github&logoColor=white)](https://github.com/Rishi1435?tab=stars)
+<a href="https://github.com/Rishi1435"><img src="https://komarev.com/ghpvc/?username=Rishi1435&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/></a>
+<a href="https://github.com/Rishi1435?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRishi1435&query=%24.followers&label=Followers&color=6d28d9&logo=github&logoColor=white&style=flat-square" alt="Followers"/></a>
+<a href="https://github.com/Rishi1435?tab=stars"><img src="https://img.shields.io/github/stars/Rishi1435?label=Stars&style=flat-square&color=f59e0b&logo=github&logoColor=white" alt="Stars"/></a>
 
-<br/>
+<br/><br/>
 
 <!-- SOCIAL LINKS -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rishipediredla.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://rishipediredla.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-pediredla-2305nov/)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pediredlarishi2005@gmail.com)
+<a href="https://rishipediredla.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-rishipediredla.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/rishi-pediredla-2305nov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:pediredlarishi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👋 About Me
 
 ```typescript
 const rishi = {
@@ -138,12 +138,12 @@ const rishi = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishi1435&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi1435&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishi1435&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi1435&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rishi1435&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Rishi1435&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
 
 </div>
 
@@ -153,14 +153,14 @@ const rishi = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishi--pediredla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-pediredla-2305nov/)
-[![Gmail](https://img.shields.io/badge/Gmail-pediredlarishi2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pediredlarishi2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rishipediredla.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://rishipediredla.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Rishi1435-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishi1435)
+<a href="https://www.linkedin.com/in/rishi-pediredla-2305nov/"><img src="https://img.shields.io/badge/LinkedIn-rishi--pediredla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:pediredlarishi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-pediredlarishi2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://rishipediredla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-rishipediredla.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Rishi1435"><img src="https://img.shields.io/badge/GitHub-Rishi1435-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/>
+<br/><br/>
 
-**Open For:** ✅ Freelance · ✅ Open Source · ✅ Technical Discussions · ✅ Internships
+**Open For:** ✅ Freelance &nbsp;·&nbsp; ✅ Open Source &nbsp;·&nbsp; ✅ Technical Discussions &nbsp;·&nbsp; ✅ Internships
 
 </div>
 
@@ -168,11 +168,10 @@ const rishi = {
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
-![Snake animation](https://github.com/Rishi1435/Rishi1435/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/Rishi1435/Rishi1435/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:a78bfa&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:a78bfa&height=100&section=footer" alt="footer"/>
 
 </div>
