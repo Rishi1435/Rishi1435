@@ -1,96 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=P%20Vishnu%20Venkata%20Rishi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Building%20with%20Flutter%20%26%20AWS&descSize=16&descAlignY=58&descColor=a0a0b0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=P%20Vishnu%20Venkata%20Rishi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Dev%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Flutter%20%2B%20AWS%20Builder&descSize=18&descAlignY=62&descColor=a0c4ff" />
 
 </div>
-
----
 
 <div align="center">
 
-### ⚡ I build cross-platform mobile apps and cloud-native serverless systems.
-**`Flutter / Dart · AWS Serverless · AI/ML Integration · Full Stack Engineering`**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Rishi1435&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/Rishi1435)
-[![GitHub followers](https://img.shields.io/github/followers/Rishi1435?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/Rishi1435?tab=followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Rishi+%F0%9F%91%8B;Full+Stack+Developer+%7C+CS+Student;Flutter+%2B+AWS+Serverless+Builder;AI%2FML+Integration+Enthusiast;Building+QLUE+%F0%9F%8E%99%EF%B8%8F+%E2%80%94+AI+Voice+Interviews)](https://git.io/typing-svg)
 
 </div>
 
----
+<div align="center">
 
-## 🧑‍💻 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=Rishi1435&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/Rishi1435)
+[![GitHub followers](https://img.shields.io/github/followers/Rishi1435?label=Followers&style=for-the-badge&color=6c2bd9&logoColor=white&logo=github)](https://github.com/Rishi1435?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Rishi1435?label=Total%20Stars&style=for-the-badge&color=f59e0b&logo=github)](https://github.com/Rishi1435)
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🎓  CS Student @ ACOE  |  Full Stack Developer Intern             │
-│  📍  Andhra Pradesh, India                                          │
-│  🚀  Core Focus: Flutter · AWS Lambda · Bedrock · Serverless AI    │
-│  🤖  Currently building: QLUE — AI-powered voice mock interview app │
-│  📫  Reach me: 23mh1a05o1@acoe.edu.in                              │
-└─────────────────────────────────────────────────────────────────────┘
-```
+</div>
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-### 💬 Languages
+```yaml
+Name     : P Vishnu Venkata Rishi
+Role     : Full Stack Developer Intern & CS Student
+Location : Andhra Pradesh, India
+College  : ACOE
+Focus    : Flutter · AWS Serverless · AI/ML Integration
+Building : QLUE — AI-powered Voice Mock Interview Platform
+Certs    : GitHub Foundations | MongoDB Dev | Postman API
+Email    : 23mh1a05o1@acoe.edu.in
+```
+
+<br/>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<div align="center">
+
+**Languages**
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📱 Frontend & Mobile
+**Mobile & Frontend**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 
-### ☁️ Cloud & Backend
+**Cloud & Backend**
+
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![AWS DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Databases
+**Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-### 🔧 Tools & DevOps
+**Tools & DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
+<br/>
+
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Project — QLUE
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   🎙️  QLUE — AI Voice Mock Interview Platform                        ║
-║                                                                      ║
-║   An AI-powered, voice-based mock interview app that simulates       ║
-║   real interview scenarios using natural conversation.               ║
-║                                                                      ║
-║   Stack: Flutter · AWS Lambda · Amazon Bedrock · DynamoDB · S3      ║
-║                                                                      ║
-║   ✦ Real-time voice-based Q&A with AI-generated feedback            ║
-║   ✦ Serverless backend for infinite scale at zero idle cost         ║
-║   ✦ Personalized sessions tailored to role & experience level       ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<a href="https://github.com/Rishi1435">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi1435&repo=qlue&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7" />
+</a>
 
 </div>
+
+<div align="center">
+
+| 🎙️ Feature | 🛠️ Stack | ⚡ Highlight |
+|---|---|---|
+| Voice-based AI Interviews | Flutter + AWS Lambda | Real-time Q&A |
+| AI Question Generation | Amazon Bedrock (Claude) | Context-aware |
+| Session Storage | DynamoDB + S3 | Zero idle cost |
+| Cross-platform App | Dart / Flutter | Android & iOS |
+
+</div>
+
+<br/>
 
 ---
 
@@ -98,45 +116,78 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishi1435&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi1435&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishi1435&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi1435&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rishi1435&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rishi1435&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff9900&currStreakLabel=a855f7)](https://git.io/streak-stats)
 
 </div>
+
+<br/>
+
+<div align="center">
+
+[![Rishi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi1435&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
 
 ---
 
-## 🏆 Certifications
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB Associate Developer](https://img.shields.io/badge/MongoDB_Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman API Fundamentals](https://img.shields.io/badge/Postman_API_Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS Educate](https://img.shields.io/badge/AWS_Educate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rishi1435&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+<br/>
+
 ---
 
-## 📬 Connect
+## 🎟️ Certifications
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rishi1435-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishi1435)
-[![Email](https://img.shields.io/badge/Email-23mh1a05o1%40acoe.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mh1a05o1@acoe.edu.in)
+![GitHub Foundations](https://img.shields.io/badge/%E2%9C%94%20GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB Associate Developer](https://img.shields.io/badge/%E2%9C%94%20MongoDB_Associate_Dev-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman API Fundamentals](https://img.shields.io/badge/%E2%9C%94%20Postman_API_Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS Educate](https://img.shields.io/badge/%E2%9C%94%20AWS_Educate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
+<br/>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40Rishi1435-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishi1435)
+[![Email](https://img.shields.io/badge/Email-23mh1a05o1%40acoe.edu.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mh1a05o1@acoe.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
