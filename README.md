@@ -11,7 +11,7 @@
 <!-- BADGES ROW -->
 <a href="https://github.com/Rishi1435"><img src="https://komarev.com/ghpvc/?username=Rishi1435&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/></a>
 <a href="https://github.com/Rishi1435?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRishi1435&query=%24.followers&label=Followers&color=6d28d9&logo=github&logoColor=white&style=flat-square" alt="Followers"/></a>
-<a href="https://github.com/Rishi1435?tab=stars"><img src="https://img.shields.io/github/stars/Rishi1435?label=Stars&style=flat-square&color=f59e0b&logo=github&logoColor=white" alt="Stars"/></a>
+<a href="https://github.com/Rishi1435?tab=stars"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRishi1435&query=%24.public_repos&label=Stars&color=f59e0b&logo=github&logoColor=white&style=flat-square" alt="Stars"/></a>
 
 <br/><br/>
 
